@@ -1,0 +1,27 @@
+{
+  "name": "ragemp-gamemode",
+  "version": "1.0.0",
+  "description": "the server-side rage mp ( justrp )",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaliLinuxF/RageMP-Server-Side-Testing.git"
+  },
+  "keywords": [
+    "ragemp",
+    "justrp",
+    "server-side"
+  ],
+  "author": "vk.com/roflonton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaliLinuxF/RageMP-Server-Side-Testing/issues"
+  },
+  "homepage": "https://github.com/KaliLinuxF/RageMP-Server-Side-Testing#readme",
+  "devDependencies": {
+    "@types/ragemp-c": "github:CocaColaBear/types-ragemp-c#master"
+  }
+}
